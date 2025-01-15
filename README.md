@@ -18,3 +18,19 @@ Further details on CLI usage are available in the [CLI User Guide](https://docs.
 ## Windows10/11
 - release zip file: `endless-cli-Windows-x86_64.zip`
 - binary file: `endless.exe`, md5 checksum: `a57ab419083f3e2f3ea66506dd2a2644`
+
+
+## Endless node
+The Endless node is a command that act as an validator or fullnode, connecting to Endless network.
+
+### Ubuntu 22
+- release zip file: `endless-node-Ubuntu-22-x86_64.zip`
+- binary file: "endless-node", md5 checksum: `19d1cf507377b15f41065aee4fc39507`
+
+### Ubuntu 24
+- release zip file: `endless-node-Ubuntu-x86_64.zip`
+- binary file: "endless-node", md5 checksum: `9f13b067ce01935291b834b02d59ff0f`
+
+## Windows10/11
+- release zip file: `endless-node-Windows-x86_64.zip`
+- binary file: `endless-node.exe`, md5 checksum: `c8459dfe5c83f2531720f912beaaa77b`
