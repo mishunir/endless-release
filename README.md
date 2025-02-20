@@ -1,8 +1,10 @@
 # endless-releases
 
-This repository contains `Endless` pre-compiled binaries, including `endless`, `endless-node`, etc.
+This repository contains:
+- `Endless` pre-compiled binaries, including `endless` CLI, `endless-node`
+- `Endless` [genensis blob and waypoint](#endless-genensis-blob-and-waypoint-for-different-networks)
 
-## Endless (CLI)
+## Endless CLI
 The Endless command line interface (CLI) is a tool to help you compile and test Move contracts. It can also help you quickly play with Endless features on-chain.
 
 Further details on CLI usage are available in the [CLI User Guide](https://docs.endless.link/endless/devbuild/build/endless-cli).
@@ -43,3 +45,10 @@ The Endless node is a command that act as an validator or fullnode, connecting t
 ## Windows10/11
 - release zip file: `endless-node-Windows-x86_64.zip`
 - binary file: `endless-node.exe`, md5 checksum: `c8459dfe5c83f2531720f912beaaa77b`
+
+---
+
+
+## Endless genensis blob and waypoint for different networks
+- endless-networks/testnet
+- endless-networks/mainnet
