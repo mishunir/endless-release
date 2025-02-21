@@ -25,6 +25,10 @@ Further details on CLI usage are available in the [CLI User Guide](https://docs.
 - release zip file: `endless-cli-Windows-x86_64.zip`
 - binary file: `endless.exe`, md5 checksum: `a57ab419083f3e2f3ea66506dd2a2644`
 
+## macOS 10.15 or above
+- release zip file: `endless-cli-darwin.zip`
+- binary file: `endless`, md5 checksum: `da29ed688e21be92cad7e16a5fdfd522`
+
 ---
 
 ## Endless node
@@ -45,6 +49,10 @@ The Endless node is a command that act as an validator or fullnode, connecting t
 ## Windows10/11
 - release zip file: `endless-node-Windows-x86_64.zip`
 - binary file: `endless-node.exe`, md5 checksum: `c8459dfe5c83f2531720f912beaaa77b`
+
+## macOS 10.15 or above
+- release zip file: `endless-node-darwin.zip`
+- binary file: `endless-node`, md5 checksum: `e3d8355ee33a865e7dd67eae471236fe`
 
 ---
 
