@@ -11,23 +11,23 @@ Further details on CLI usage are available in the [CLI User Guide](https://docs.
 
 ### Alibaba Cloud Linux 3
 - release zip file: `endless-cli-AliCloud3-x86_64.zip`
-- binary file: "endless", md5 checksum: `8047f300466f8ea20980cfa1c6ef3bae`
+- binary file: "endless", md5 checksum: `9de102f8ed3617411c7990f0d1be133e`
 
 ### Ubuntu 22
 - release zip file: `endless-cli-Ubuntu-22-x86_64.zip`
-- binary file: "endless", md5 checksum: `d0869d0360966b379a708d20547ba376`
+- binary file: "endless", md5 checksum: `de9fa27996067191033b49e96dd0fc6d`
 
 ### Ubuntu 24
 - release zip file: `endless-cli-Ubuntu-x86_64.zip`
-- binary file: "endless", md5 checksum: `c881e5491c54ca3c7ab2e154c9e821bf`
+- binary file: "endless", md5 checksum: `4d0cfbcd34f42a7378f42d9c0f518e65`
 
 ## Windows10/11
 - release zip file: `endless-cli-Windows-x86_64.zip`
-- binary file: `endless.exe`, md5 checksum: `a57ab419083f3e2f3ea66506dd2a2644`
+- binary file: `endless.exe`, md5 checksum: `ad875629d47fe19516fec3b7c4a6279d`
 
 ## macOS 10.15 or above
 - release zip file: `endless-cli-darwin.zip`
-- binary file: `endless`, md5 checksum: `da29ed688e21be92cad7e16a5fdfd522`
+- binary file: `endless`, md5 checksum: `db17a433e8d5085ee52a44d2d040dbd2`
 
 ---
 
@@ -36,23 +36,23 @@ The Endless node is a command that act as an validator or fullnode, connecting t
 
 ### Alibaba Cloud Linux 3
 - release zip file: `endless-node-AliCloud3-x86_64.zip`
-- binary file: "endless-node", md5 checksum: `3db8de08d446e6bf63bef3005fc437b9`
+- binary file: "endless-node", md5 checksum: `d2493c0c5ed9b3ba5ccc039d0c82d0af`
 
 ### Ubuntu 22
 - release zip file: `endless-node-Ubuntu-22-x86_64.zip`
-- binary file: "endless-node", md5 checksum: `19d1cf507377b15f41065aee4fc39507`
+- binary file: "endless-node", md5 checksum: `eff659fa598a84a4bd86fe89ebff8f6d`
 
 ### Ubuntu 24
 - release zip file: `endless-node-Ubuntu-x86_64.zip`
-- binary file: "endless-node", md5 checksum: `9f13b067ce01935291b834b02d59ff0f`
+- binary file: "endless-node", md5 checksum: `bee9cb7269c7af7e741b817a85594a86`
 
 ## Windows10/11
 - release zip file: `endless-node-Windows-x86_64.zip`
-- binary file: `endless-node.exe`, md5 checksum: `c8459dfe5c83f2531720f912beaaa77b`
+- binary file: `endless-node.exe`, md5 checksum: `cabb6649114e9c75a58183e438942a6e`
 
 ## macOS 10.15 or above
 - release zip file: `endless-node-darwin.zip`
-- binary file: `endless-node`, md5 checksum: `e3d8355ee33a865e7dd67eae471236fe`
+- binary file: `endless-node`, md5 checksum: `81106391e68b598ff3a48571c8263c74`
 
 ---
 
