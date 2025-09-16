@@ -1,0 +1,12 @@
+Currently, the Bridge.sol contract does not have automated test coverage.  
+
+Tasks:
+- Write unit tests to verify the correctness of core contract functions.
+- Test state variable initialization and updates.
+- Include edge cases and failure scenarios.
+- Ensure tests can run on a local testnet or using a framework like Hardhat or Truffle.
+
+Benefits:
+- Ensures the contract works as expected before deployment.
+- Helps catch bugs early.
+- Provides confidence for future updates and refactoring.
