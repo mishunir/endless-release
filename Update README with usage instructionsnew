@@ -1,0 +1,12 @@
+The current README.md file does not provide clear instructions on how to use or deploy the Bridge.sol contract. 
+
+Tasks:
+- Add step-by-step instructions for setting up the development environment.
+- Include commands to compile and deploy the contract on local and testnet environments.
+- Provide examples of interacting with the deployed contract.
+- Add notes on required dependencies and configuration files.
+
+Benefits:
+- Helps new contributors get started quickly.
+- Reduces confusion during deployment and testing.
+- Improves overall project documentation quality.
