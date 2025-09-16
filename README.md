@@ -56,3 +56,19 @@ Latest endless-cli version: 1.0.6
 ## Endless genensis blob and waypoint for different networks
 - endless-networks/testnet
 - endless-networks/mainnet
+# Commit 1
+echo "Line 1" > history.txt
+git add history.txt
+git commit -m "Commit 1: Add first line"
+
+# Commit 2
+echo "Line 2" >> history.txt
+git add history.txt
+git commit -m "Commit 2: Add second line"
+
+# Commit 3
+echo "Line 3" >> history.txt
+git add history.txt
+git commit -m "Commit 3: Add third line"
+
+# ...repeat until 10 commits
